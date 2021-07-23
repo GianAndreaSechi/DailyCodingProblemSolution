@@ -1,5 +1,5 @@
 def main():
-    k = 18
+    k = 17
     X = [10, 15, 3, 7]
 
     print(isSummable(k,X,0))
