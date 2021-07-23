@@ -8,4 +8,4 @@ For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
 
 Bonus: Can you do this in one pass?
 
-[a https://github.com/GianAndreaSechi/DailyCodingProblemSolution/blob/main/1%20-%20Google/solution.py]Solution
+[Solution](https://github.com/GianAndreaSechi/DailyCodingProblemSolution/blob/main/1%20-%20Google/solution.py])
