@@ -3,6 +3,8 @@ def main():
 
     print("Solution: ", productArray(A))
 
+#O(N) time
+#O(N) space
 def productArray(A):
     tot_prod = 1
     product_A = []
