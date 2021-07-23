@@ -1,5 +1,5 @@
-# DailyCodingProblem.com Solutions
-#### In this repo i collect my solutions to some problem received by them.
+# Daily-Coding-Problem Solutions
+#### In this repo i collect my solutions to some problem received by (DailyCodingProblem.com).
 
 ##Problem 1:
 This problem was recently asked by Google.
