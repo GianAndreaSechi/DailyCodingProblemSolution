@@ -1,7 +1,9 @@
 # Daily-Coding-Problem Solutions
 #### In this repo i collect my solutions to some problem received by (DailyCodingProblem.com).
+The difficulties mark are given with the problem's questions. 
 
-## Problem 1:
+
+## Problem 1 [Easy]:
 This problem was recently asked by Google.
 
 Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
@@ -13,7 +15,7 @@ Bonus: Can you do this in one pass?
 
 ---
 
-## Problem 2:
+## Problem 2 [Hard]:
 This problem was asked by Uber.
 
 Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i.
@@ -25,7 +27,7 @@ Follow-up: what if you can't use division?
 [Solution](https://github.com/GianAndreaSechi/DailyCodingProblemSolution/blob/main/2%20-%20Uber/solution.py)
 
 ---
-## Problem 3
+## Problem 3 [Medium]:
 This problem wa asked by Google.
 
 Given the root to a binary tree, implement ```serialize(root)```, which serializes the tree into a string, and ```deserialize(s)```, which deserializes the string back into the tree.
@@ -51,7 +53,7 @@ assert deserialize(serialize(node)).left.left.val == 'left.left'
 
 ---
 
-## Problem 4
+## Problem 4 [Hard]:
 This problem wa asked by Stripe.
 
 Given an array of integers, find the first missing positive integer in linear time and constant space. In other words, find the lowest positive integer that does not exist in the array. The array can contain duplicates and negative numbers as well.
