@@ -64,3 +64,22 @@ You can modify the input array in-place.
 
 [Solution](https://github.com/GianAndreaSechi/DailyCodingProblemSolution/blob/main/4%20-%20Stripe/solution.py)
 
+---
+
+## Problem 5 [Medium]:
+This problem wa asked by Jane Street.
+
+```cons(a, b)``` constructs a pair, and ```car(pair)``` and ```cdr(pair)``` returns the first and last element of that pair. For example, ```car(cons(3, 4))``` returns ```3```, and ```cdr(cons(3, 4))``` returns ```4```.
+
+Given this implementation of cons:
+```python
+def cons(a, b):
+    def pair(f):
+        return f(a, b)
+    return pair
+
+```
+Implement ```car``` and ```cdr```.
+
+[Solution](https://github.com/GianAndreaSechi/DailyCodingProblemSolution/blob/main/5%20-%20Jane%20Street/solution.py)
+
